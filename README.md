@@ -8,6 +8,8 @@ by Vernon Adams
 
 Kameron is a reworking and fusing of several classic Slab Serif and Egyptian type forms from the early to mid Twentieth Century.
 
+![Sample of Kameron.](documentation/image2.png)
+
 ## Designer
 
 * Vernon Adams
